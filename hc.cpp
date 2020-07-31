@@ -2,7 +2,8 @@
 #include<chrono>
 using namespace std;
 int main()
-{
+{	
+	cout<<" WELCOME TO HANDCRICKET GAME "<<end;
 	string s;
 	string s1;
 	cout << "ENTER PLAYER ONE NAME " << endl;
